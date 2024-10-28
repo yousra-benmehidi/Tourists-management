@@ -12,7 +12,7 @@ public class maintest {
 		t.afficherListPays();
 		t.laisserCommentaire("tres beau pays a revisiter");
 		t.laisserCommentaire("paysage feeriques et eblouissants");
-		t.laisserCommentaire("vjkdhkjsdhvj algerie jkvhsvjz");
+		t.laisserCommentaire("magnifique pays");
 		t.afficherCommentaire();
 		Touriste.findout(t);
 	}
